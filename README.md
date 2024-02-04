@@ -113,3 +113,5 @@ Congratulations, you've mastered the art of deciphering Hex color codes using th
 ## Author
 
 Just a junior web dev [witch](https://github.com/Jessmica11) who has [Chromesthesia](https://pubmed.ncbi.nlm.nih.gov/29259260/).
+
+![Figure-2 from "Musical pitch classes have rainbow hues in pitch class-color synesthesia"](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-017-18150-y/MediaObjects/41598_2017_18150_Fig2_HTML.jpg?as=webp)
