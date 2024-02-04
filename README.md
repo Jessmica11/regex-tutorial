@@ -47,8 +47,6 @@ This enchanted component harbors the very essence of the hex magic. It comprises
 
 `[a-fA-F0-9]{6}`: Conjures a 6-character hex value, where each character embodies the spirit of a valid hexadecimal digit (0-9, a-f, A-F).
 
-`[a-fA-F0-9]{3}`: Summons a 3-character hex value, adhering to the same magical rules as its 6-character counterpart.
-
 The dollar sign ($), a magical seal, asserts the end of the string. It ensures that the hex concludes at the very end.
 
 **Spellbinding Instances:**
@@ -56,12 +54,14 @@ The dollar sign ($), a magical seal, asserts the end of the string. It ensures t
 - `#4d8cfa` (valid)
 - `#1a2b3c` (valid)
 
-- **[a-f0-9]{3}:** Accepts the charm of short-form Hex color codes, featuring three characters for a quicker incantation. In this case, each character is duplicated to represent the Red, Green, Blue (RGB) color components.
+`[a-f0-9]{3}`: Accepts the charm of short-form Hex color codes, featuring three characters for a quicker incantation. In this case, each character is duplicated to represent the Red, Green, Blue (RGB) color components in shorthand.
 
-  **Charming Examples:**
+**Charming Examples:**
 
-  - `#abc` (valid)
-  - `#123` (valid)
+- `#abc` (valid)
+- `#123` (valid)
+
+A good example of this in practice is the incantation for Orange: #ff6600. Since there are repetitions in the 6-digit code, you can simplify this color down to a 3-digit code as: #f60.
 
 ### Component 4
 
