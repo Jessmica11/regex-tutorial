@@ -131,4 +131,4 @@ Congratulations, you've mastered the art of deciphering Hex color codes using th
 
 ## Author
 
-Just a junior web dev [witch](https://github.com/Jessmica11) who has [Chromesthesia](https://pubmed.ncbi.nlm.nih.gov/2725872/).
+Just a junior web dev [witch](https://github.com/Jessmica11) who has [Chromesthesia](https://pubmed.ncbi.nlm.nih.gov/29259260/).
