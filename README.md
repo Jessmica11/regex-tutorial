@@ -30,7 +30,7 @@ The regex starts with a caret (^) for initiation.
 
 ### Component 2
 
-and the optional but welcomed '#' symbol, reminiscent of the enchanting color codes. It's important to keep your [grimoire](https://libguides.sdsu.edu/c.php?g=905875&p=6686265) close to your heart so it's used to its highest power, and magical symbolism and its rules must be followed.
+The optional but welcomed '#' symbol, reminiscent of the enchanting color codes.
 
 **Example Incantations:**
 
@@ -66,6 +66,8 @@ The dollar sign ($), a magical seal, asserts the end of the string. It ensures t
 ### Component 4
 
 The dollar sign `$`, a magical seal, asserts the end of the string. It ensures that the hex magic concludes at the very end.
+
+It's important to keep your [grimoire](https://libguides.sdsu.edu/c.php?g=905875&p=6686265) close to your heart so it's used to its highest power, and magical symbolism and its rules must be followed.
 
 ## Understanding Hexes
 
